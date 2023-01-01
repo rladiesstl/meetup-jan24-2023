@@ -1,14 +1,14 @@
 ---
 title: "Welcome to R-Ladies St. Louis"
-subtitle: "Clinical Reporting with {gtsummary}"
-date: "October 17, 2022"
+subtitle: "Intro to Linear Optimization with R"
+date: "January 24, 2023"
 format: rladies-revealjs
 self-contained: true
 ---
 
 # Materials for tonight
 
--   All materials can be found here: <https://www.danieldsjoberg.com/clinical-reporting-gtsummary-rmed/>
+-   All materials can be found here: <>
 
 -   Have R and RStudio installed on your computer
 
@@ -47,14 +47,12 @@ Co-organizers for **`2022-23`** include:
 -   Crystal Lewis (Freelance Data Management Consultant)\
 -   Laura Rose (Hinge Health)
 
-# 2022 Fall Schedule
+# 2023 Winter/Spring Schedule
 
-Each week in October we will be featuring an Introductory R topic during our OctobeR ExtRavaganza
+We have several speakers planned for this semester.
 
--   **`Earlier This Month:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Penn State)
--   **`Last Week:`** Intro to Iteration: for loops and functions with **Merve Ileri Tayar** (Washington University)
--   **`Tonight:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
--   **`Thursday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
+-   **`Tonight:`** Wrangling Data in the Tidyverse with **Ralph Asher** (Data Driven Supply Chain)
+-   **`Wednesday Feb.22:`** Intro to Iteration: for loops and functions with **Luis D. Verde Arregoitia** (Instituto de Ecologia, Mexico)
 
 # Announcements
 
@@ -90,7 +88,6 @@ Visit **rladies.org** to learn about the mission and global work of R-Ladies
 
 # About tonight's speaker
 
-- Daniel is a Senior Biostatistician at Memorial Sloan Kettering Cancer Center in New York City and a DrPH candidate in Biostatistics at Columbia University. 
-- His research interests include adaptive methods in clinical trials, precision medicine, and predictive modeling.
-- He also enjoys R package development, creating many packages available on CRAN, R-Universe, GitHub, and internally at MSKCC. 
-- Daniel is the the winner of the 2021 American Statistical Association (ASA) Innovation in Statistical Programming and Analytics award.
+- Ralph is the founder of Data Driven Supply Chain, LLC, a Minnesota-based consultancy that applies data science and AI methods, including linear optimization, to evaluate, design, and optimize clients' supply chains.
+- Prior to founding Data Driven Supply Chain, he worked as an Operations Research Scientist at Target, designing e-commerce supply chain networks, and at General Mills, designing warehousing networks.
+- He can be reached at [ralph\@datadrivensupplychain.com](mailto:ralph@datadrivensupplychain.com)
