@@ -2,4 +2,4 @@
 
 See intro slides here: to be added
 
-Materials for this workshop can be found here: to be added
+Materials for this workshop can be found here: https://github.com/datadrivensupplychain/rladies-stl-optimization
