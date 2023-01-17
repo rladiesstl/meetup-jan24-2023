@@ -8,22 +8,22 @@ self-contained: true
 
 # Materials for tonight
 
--   All materials can be found here: <>
+-   All materials can be found here: <https://github.com/datadrivensupplychain/rladies-stl-optimization>
 
 -   Have R and RStudio installed on your computer
 
--   Most recent release of the `gtsummary` and other packages used in workshop.
+-   Install the following packages per the code below, and then run the script found here: <https://github.com/datadrivensupplychain/teaching_bits/blob/main/ompr%20test.r>
 
 ```{r}
 #| eval: false
 #| echo: true
 
-instll_pkgs <- c("gtsummary", "tidyverse", "labelled", "usethis", "causaldata", "fs", "skimr", "car")
+instll_pkgs <- c("ompr", "ompr.roi", "ROI.plugin.glpk")
 
 install.packages(instll_pkgs)
 
 ```
-
+- Calling the object `result` from the command line should yield Status: success and Objective Value: 11.25
 
 # What is R-Ladies? {.smaller}
 
@@ -53,6 +53,8 @@ We have several speakers planned for this semester.
 
 -   **`Tonight:`** Wrangling Data in the Tidyverse with **Ralph Asher** (Data Driven Supply Chain)
 -   **`Wednesday Feb.22:`** Intro to Iteration: for loops and functions with **Luis D. Verde Arregoitia** (Instituto de Ecologia, Mexico)
+-   **`Thursday April 13:`** Intro to data.table with **Susanna Supalla** (Hinge Health)
+-   **`TBD:`** Tips for R Markdown with 
 
 # Announcements
 
