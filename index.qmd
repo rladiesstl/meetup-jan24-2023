@@ -54,7 +54,7 @@ We have several speakers planned for this semester.
 -   **`Tonight:`** Intro to Linear Optimization with R with **Ralph Asher** (Data Driven Supply Chain)
 -   **`Wednesday Feb.22:`** Regular Expressions and Working with Text Strings with **Luis D. Verde Arregoitia** (Instituto de Ecologia, Mexico)
 -   **`Thursday April 13:`** Intro to data.table with **Susanna Supalla** (Hinge Health)
--   **`TBD:`** Tips for R Markdown with 
+-   **`TBD:`** Tips for R Markdown 
 
 # Announcements
 
