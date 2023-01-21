@@ -18,7 +18,7 @@ self-contained: true
 #| eval: false
 #| echo: true
 
-instll_pkgs <- c("ompr", "ompr.roi", "ROI.plugin.glpk")
+instll_pkgs <- c("ompr", "ompr.roi", "ROI.plugin.glpk", "geosphere", "leaflet", "leaflet.minicharts", "maps", "measurements")
 
 install.packages(instll_pkgs)
 
@@ -53,8 +53,9 @@ We have several speakers planned for this semester.
 
 -   **`Tonight:`** Intro to Linear Optimization with R with **Ralph Asher** (Data Driven Supply Chain)
 -   **`Wednesday Feb.22:`** Regular Expressions and Working with Text Strings with **Luis D. Verde Arregoitia** (Instituto de Ecologia, Mexico)
+-   **`Tuesday, March 21:`** R Markdown Tips and Tricks with **Alex Knitter** (Washington University)
 -   **`Thursday April 13:`** Intro to data.table with **Susanna Supalla** (Hinge Health)
--   **`TBD:`** Tips for R Markdown 
+
 
 # Announcements
 
